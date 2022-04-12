@@ -1,0 +1,8 @@
+#song with different time signatures
+Time singature = 3
+ Do Re Me | Off-- | Me Re Do |
+ Do Re Me | Fa So Off | So Fa Me | Re Do- |
+Time singature = 2
+ Do- | Re Me | Fa So | La Ti |
+Time singature = 4
+ Do--- | Re--- | Off- Me- |
